@@ -19,7 +19,7 @@ if (showLogin) {
 return (
 
    <View>
-     <Image source={require("../assets/logo.png") } />
+     <Image source={require("../assets/asistencia.png") } />
    </View>
    
    );
